@@ -1,4 +1,4 @@
-## mirror setup
+## Docker 镜像加速
 
 > ref: http://mirrors.ustc.edu.cn/help/dockerhub.html
 
